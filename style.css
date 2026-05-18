@@ -1,0 +1,15 @@
+*
+    {
+    box-sizing: border-box;
+    
+    }
+
+
+
+body{
+  background-color: #000000;
+  font-family: "Playwrite AU SA", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}       
